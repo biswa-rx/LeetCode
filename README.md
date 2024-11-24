@@ -31,4 +31,9 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/biswa-rx/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/biswa-rx/LeetCode/tree/master/0031-next-permutation) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/biswa-rx/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
