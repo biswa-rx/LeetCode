@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/biswa-rx/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/biswa-rx/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/biswa-rx/LeetCode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -36,4 +37,9 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/biswa-rx/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/biswa-rx/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/biswa-rx/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
